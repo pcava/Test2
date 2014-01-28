@@ -1,0 +1,1 @@
+"U:\Gestori Fondi\Paolo Cavatore\R-2.15.1\bin\R.exe" CMD BATCH --vanilla --slave "U:\Gestori Fondi\Tullio Santi\StockSelectionModel\STREU_new.R"
